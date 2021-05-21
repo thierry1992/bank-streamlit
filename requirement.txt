@@ -3,7 +3,7 @@ numpy>=1.9.2
 scikit-learn>=0.18
 pandas>=0.19
 streamlit == 0.48.1
-lime >= 7.9.0
+lime == 0.2.0.1
 LightGBM >= 3.2.1
 Pillow==2.2.2
 
