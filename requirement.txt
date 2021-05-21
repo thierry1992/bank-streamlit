@@ -6,4 +6,4 @@ streamlit == 0.48.1
 lime >= 7.9.0
 LightGBM >= 3.2.1
 Pillow==2.2.2
-
+python-3.5.2
